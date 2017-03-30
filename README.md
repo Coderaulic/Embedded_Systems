@@ -42,6 +42,13 @@ See <strong><a href="https://github.com/Coderaulic/Embedded_Systems/tree/master/
 ![traversal output](https://cloud.githubusercontent.com/assets/10789046/24492747/4a330a94-14e1-11e7-978a-08fa3c686674.jpg)
 ![traversal results](https://cloud.githubusercontent.com/assets/10789046/24492748/4a34f78c-14e1-11e7-9f2a-d87f17fef085.jpg)
 
+<strong>Initial Navigation Command Test:</strong><br>
+![Demo](https://github.com/Coderaulic/Embedded_Systems/blob/master/Docs/direct_cmds.gif)<br>
+<strong>Successful Navigation over line course:</strong><br>
+![Demo](https://github.com/Coderaulic/Embedded_Systems/blob/master/Docs/roverontrack.gif)<br>
+<strong>That 'moment' the project worked:</strong>:grin:<br>
+![Demo](https://github.com/Coderaulic/Embedded_Systems/blob/master/Docs/dual_rovers.gif)
+
 
 
 
