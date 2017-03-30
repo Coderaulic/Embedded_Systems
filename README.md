@@ -30,22 +30,22 @@ See <strong><a href="https://github.com/Coderaulic/Embedded_Systems/tree/master/
 <strong>Fun building these little rovers:</strong>:smiley:<br>
 ![rovers](https://cloud.githubusercontent.com/assets/10789046/24492440/61e6ecce-14e0-11e7-9a73-e5cc7f57dc30.jpg)
 
-<strong>Logics states for the rovers as finite state machines:</strong><br>
+<strong>Designed the logics states for the rovers as finite state machines:</strong><br>
 ![r1](https://cloud.githubusercontent.com/assets/10789046/24492490/8ddc5a12-14e0-11e7-88b9-afb912f237e9.jpg)
 ![r2](https://cloud.githubusercontent.com/assets/10789046/24492491/8dddf2aa-14e0-11e7-9b23-b31bfe6bc1b6.jpg)
 
 <strong>Communication Sequence:</strong><br>
 ![communication sequence](https://cloud.githubusercontent.com/assets/10789046/24494376/ec6f19b0-14e6-11e7-9ab3-b81a669f410d.jpg)
 
-<strong>Console Display: controls, navigation payload status, and traversal results:</strong><br>
+<strong>Console Display: [Controls], [Navigation Payload Status], [Traversal Results]:</strong><br>
 ![controls](https://cloud.githubusercontent.com/assets/10789046/24492746/4a30f4ca-14e1-11e7-8096-313871739c50.jpg)
 ![traversal output](https://cloud.githubusercontent.com/assets/10789046/24492747/4a330a94-14e1-11e7-978a-08fa3c686674.jpg)
 ![traversal results](https://cloud.githubusercontent.com/assets/10789046/24492748/4a34f78c-14e1-11e7-9f2a-d87f17fef085.jpg)
 
-<strong>Initial Navigation Command Test:</strong><br>
+<strong>Initial Navigation command test:</strong><br>
 ![1](https://github.com/Coderaulic/Embedded_Systems/blob/master/Docs/direct_cmds.gif?raw=true)<br>
 
-<strong>Successful Navigation over line course:</strong><br>
+<strong>Successful navigation over line course:</strong><br>
 ![2](https://github.com/Coderaulic/Embedded_Systems/blob/master/Docs/roverontrack.gif?raw=true)<br>
 
 <strong>That 'moment' the project worked:</strong>:grin:<br>
