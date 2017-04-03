@@ -22,6 +22,15 @@ The master rover is positioned near the course. The PC will then send a command 
 
 The slave rover will also be positioned on an identical course next to the Master Rover. It will accept as many navigation packets as it can, waiting for the PC to send a command to start. After the signal, the Slave rover will synchronize its clock with the first navigation packet, and then execute them in order to mimic the timing and speed of the master rover. The master rover will continue to follow the line until it is lost or it receives a signal from the PC to stop.
 
+<strong>Initial Navigation command test:</strong><br>
+![1](https://github.com/Coderaulic/Embedded_Systems/blob/master/Docs/direct_cmds.gif?raw=true)<br>
+
+<strong>Successful navigation over line course:</strong><br>
+![2](https://github.com/Coderaulic/Embedded_Systems/blob/master/Docs/roverontrack.gif?raw=true)<br>
+
+<strong>That 'moment' the project worked:</strong>:grin:<br>
+![3](https://github.com/Coderaulic/Embedded_Systems/blob/master/Docs/dual_rovers.gif?raw=true)<br>
+
 See <strong><a href="https://github.com/Coderaulic/Embedded_Systems/tree/master/Docs">documentation</a></strong> for more details on the project.
 
 <strong>Overview:</strong><br>
@@ -41,15 +50,6 @@ See <strong><a href="https://github.com/Coderaulic/Embedded_Systems/tree/master/
 ![controls](https://cloud.githubusercontent.com/assets/10789046/24492746/4a30f4ca-14e1-11e7-8096-313871739c50.jpg)
 ![traversal output](https://cloud.githubusercontent.com/assets/10789046/24492747/4a330a94-14e1-11e7-978a-08fa3c686674.jpg)
 ![traversal results](https://cloud.githubusercontent.com/assets/10789046/24492748/4a34f78c-14e1-11e7-9f2a-d87f17fef085.jpg)
-
-<strong>Initial Navigation command test:</strong><br>
-![1](https://github.com/Coderaulic/Embedded_Systems/blob/master/Docs/direct_cmds.gif?raw=true)<br>
-
-<strong>Successful navigation over line course:</strong><br>
-![2](https://github.com/Coderaulic/Embedded_Systems/blob/master/Docs/roverontrack.gif?raw=true)<br>
-
-<strong>That 'moment' the project worked:</strong>:grin:<br>
-![3](https://github.com/Coderaulic/Embedded_Systems/blob/master/Docs/dual_rovers.gif?raw=true)
 
 
 
